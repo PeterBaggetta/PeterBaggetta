@@ -19,6 +19,7 @@
 
   ---
   <div align="left">
+  
   :man_technologist: About Me:
 
   :computer: I am a Computer Engineering Student studying at University of Guelph.
@@ -31,7 +32,7 @@
   </div>
 
   ---
-  
+
   <div align="left">
 
   ### :hammer_and_wrench: Languages and Tools:
