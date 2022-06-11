@@ -2,7 +2,7 @@
   <h1 align="left">
     <style>
     p {
-      background-immage: url('https://www.megapixl.com/pixel-art-hacker-clipart-illustrations');
+      background-image: url('https://www.megapixl.com/pixel-art-hacker-clipart-illustrations');
     }
     </style>
     Hello World, Im Peter 👋
