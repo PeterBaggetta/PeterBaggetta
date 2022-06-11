@@ -1,8 +1,8 @@
 <div id="header" align="center">
 
-  ### Hi, I'm Peter 👋
-  
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
+  <h1 align="left">
+    Hi, I'm Peter 👋
+  </h1>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/peter-baggetta-245867203/">
