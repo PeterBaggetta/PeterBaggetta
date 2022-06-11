@@ -1,21 +1,13 @@
 <div id="header" align="center">
 
-  # Hi I'm Peter 👋
+  <h1 align="left">
+    Hi I'm Peter 👋
+  </h1>
 
   [![Linkedin Badge](https://img.shields.io/badge/-PeterBaggetta-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-baggetta/)](https://www.linkedin.com/in/peter-baggetta-245867203/)
   [![Gmail Badge](https://img.shields.io/badge/-petebaggetta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:petebaggetta@gmail.com)](mailto:petebaggetta@gmail.com)
 
-  <div id="badges" align="left">
-    <a href="https://www.linkedin.com/in/peter-baggetta-245867203/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-
-  <img src="https://komarev.com/ghpvc/?username=PeterBaggetta&style=flat-square&color=blue" alt=""/>
-
-  <div align="center">
-    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
-  </div>
+  Welcome to my profile. I am currently a student at the University of Guelph studying Computer Engineering, currently in an intern position @PublicisSapient. I love to partake in many outdoor activities, but also sitting down and coding. Thank you for visiting and I'd love to [connect](www.linkedin.com/in/peter-baggetta-245867203/)!
 
   ---
   <div align="left">
