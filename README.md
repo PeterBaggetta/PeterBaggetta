@@ -4,11 +4,12 @@
     Hi, I'm Peter 👋
   </h1>
 
-  <div id="badges">
+  <div id="badges" align="left">
     <a href="https://www.linkedin.com/in/peter-baggetta-245867203/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
+  [![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:petebaggetta@gmail.com)](mailto:petebaggetta@gmail.com)
 
   <img src="https://komarev.com/ghpvc/?username=PeterBaggetta&style=flat-square&color=blue" alt=""/>
 
