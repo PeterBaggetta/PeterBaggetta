@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="left">
 
   <h1 align="left">
     Hi I'm Peter 👋
@@ -7,7 +7,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/-PeterBaggetta-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-baggetta/)](https://www.linkedin.com/in/peter-baggetta-245867203/)
   [![Gmail Badge](https://img.shields.io/badge/-petebaggetta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:petebaggetta@gmail.com)](mailto:petebaggetta@gmail.com)
 
-  Welcome to my profile. I am currently a student at the University of Guelph studying Computer Engineering, currently in an intern position @PublicisSapient. I love to partake in many outdoor activities, but also sitting down and coding. Thank you for visiting and I'd love to [connect](www.linkedin.com/in/peter-baggetta-245867203/)!
+  Welcome to my profile. I am currently a student at the University of Guelph studying Computer Engineering, currently in an intern position @PublicisSapient as a Software Development Engineer. I love to partake in many outdoor activities, but also sitting down and coding. Thank you for visiting and I'd love to [connect](www.linkedin.com/in/peter-baggetta-245867203/)!
 
   ---
   <div align="left">
