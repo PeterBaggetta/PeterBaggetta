@@ -1,4 +1,7 @@
 <div id="header" align="center">
+  <h1>
+    Hi there 👋
+  </h1>
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
 
   <div id="badges">
@@ -8,10 +11,6 @@
   </div>
 
   <img src="https://komarev.com/ghpvc/?username=PeterBaggetta&style=flat-square&color=blue" alt=""/>
-
-  <h1>
-    Hi there 👋
-  </h1>
 
   <div align="center">
     <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
