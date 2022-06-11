@@ -20,6 +20,7 @@
   ---
   <div align="left">
   :man_technologist: About Me:
+
   :computer: I am a Computer Engineering Student studying at University of Guelph.
 
   - :floppy_disk: I am currently working as a Software Development Engineer and experience in backend programming.
@@ -30,9 +31,10 @@
   </div>
 
   ---
+  
+  <div align="left">
 
   ### :hammer_and_wrench: Languages and Tools:
-  <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -45,7 +47,7 @@
   <div align="left">
 
   :fire: My Stats:
-  
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterBaggetta&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 </div>
