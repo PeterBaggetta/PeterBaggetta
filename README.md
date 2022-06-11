@@ -1,15 +1,14 @@
 <div id="header" align="center">
 
-  <h1 align="left">
-    Hi, I'm Peter 👋
-  </h1>
+  # Hi I'm Peter 👋
+
+  [![Gmail Badge](https://img.shields.io/badge/-petebaggetta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:petebaggetta@gmail.com)](mailto:petebaggetta@gmail.com)
 
   <div id="badges" align="left">
     <a href="https://www.linkedin.com/in/peter-baggetta-245867203/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  [![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:petebaggetta@gmail.com)](mailto:petebaggetta@gmail.com)
 
   <img src="https://komarev.com/ghpvc/?username=PeterBaggetta&style=flat-square&color=blue" alt=""/>
 
