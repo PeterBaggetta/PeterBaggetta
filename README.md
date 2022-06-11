@@ -42,8 +42,10 @@
 
   ---
 
+  <div align="left">
+
   :fire: My Stats:
-  <div align="left>
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterBaggetta&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 </div>
