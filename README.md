@@ -2,6 +2,7 @@
 
   # Hi I'm Peter 👋
 
+  [![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-baggetta/)](https://www.linkedin.com/in/peter-baggetta-245867203/)
   [![Gmail Badge](https://img.shields.io/badge/-petebaggetta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:petebaggetta@gmail.com)](mailto:petebaggetta@gmail.com)
 
   <div id="badges" align="left">
