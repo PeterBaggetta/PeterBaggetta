@@ -1,9 +1,7 @@
 <div id="header" align="center">
 
-  <p style="background-image: url('https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif');"> 
-
   <h1 align="left">
-    Hello World, Im Peter 👋
+    Hi, I'm Peter 👋
   </h1>
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
 
