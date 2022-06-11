@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150"/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/peter-baggetta-245867203/">
@@ -19,7 +19,7 @@
 
   ---
   <div align="left">
-  
+
   :man_technologist: About Me:
 
   :computer: I am a Computer Engineering Student studying at University of Guelph.
