@@ -19,4 +19,11 @@
 
   ---
   ### :man_technologist: About Me:
+  :computer: I am a Computer Engineering Student studying at University of Guelph.
+
+  - :telescope: I am currently working as a Software Development Engineer and experience in backend programming.
+
+  - :: Exploring frontend and web development.
+
+  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/peter-baggetta-245867203/)
 </div>
