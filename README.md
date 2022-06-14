@@ -8,6 +8,8 @@
   [![Gmail Badge](https://img.shields.io/badge/-petebaggetta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:petebaggetta@gmail.com)](mailto:petebaggetta@gmail.com)
 
   Welcome to my profile. I am currently a student at the University of Guelph studying Computer Engineering, currently in an intern position @PublicisSapient as a Software Development Engineer. I love to partake in many outdoor activities, but also sitting down and coding. Thank you for visiting and I'd love to [connect](www.linkedin.com/in/peter-baggetta-245867203/)!
+  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
 
   ---
   <div>
