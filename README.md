@@ -1,8 +1,14 @@
 <div id="header" align="left">
 
-  <h1>
+  <h1 align="center">
     Hi I'm Peter 👋
   </h1>
+  <div align="center">
+    <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150"/>
+  </div>
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=PeterBaggetta&style=flat-square&color=blue" alt=""/>
+  </div>
 
   [![Linkedin Badge](https://img.shields.io/badge/-PeterBaggetta-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-baggetta/)](https://www.linkedin.com/in/peter-baggetta-245867203/)
   [![Gmail Badge](https://img.shields.io/badge/-petebaggetta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:petebaggetta@gmail.com)](mailto:petebaggetta@gmail.com)
@@ -42,6 +48,20 @@
   </div>
 
   ---
+  
+  ### :fire: My Stats:
+  
+  <p align=center>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterBaggetta&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+    
+<!--     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=PeterBaggetta&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a> -->
+    
+  </div>
+</p>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterBaggetta&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
