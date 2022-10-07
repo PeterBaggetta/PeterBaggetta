@@ -22,9 +22,7 @@
 
   :computer: I am a Computer Engineering Student studying at University of Guelph.
 
-  - :floppy_disk: I am currently working as a Software Development Engineer and experienced in backend programming.
-
-  - :microscope: Exploring frontend and web development.
+  - :floppy_disk: I have experience as a Full Stack Developer as well with low level programming on hardware.
 
   - :round_pushpin: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/peter-baggetta-245867203/) or [![Gmail Badge](https://img.shields.io/badge/-petebaggetta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:petebaggetta@gmail.com)](mailto:petebaggetta@gmail.com)
   </div>
