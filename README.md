@@ -10,9 +10,6 @@
     <img src="https://komarev.com/ghpvc/?username=PeterBaggetta&style=flat-square&color=blue" alt=""/>
   </div>
 
-  [![Linkedin Badge](https://img.shields.io/badge/-PeterBaggetta-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-baggetta/)](https://www.linkedin.com/in/peter-baggetta-245867203/)
-  [![Gmail Badge](https://img.shields.io/badge/-peter.baggetta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:peter.baggetta@gmail.com)](mailto:peter.baggetta@gmail.com)
-
   As a Computer Engineer, who graduated in April 2023, I have gained valuable and up-to-date knowledge and problem-solving skills, that I am eager to apply to the workforce. With a strong work ethic and self-motivation, I am a dependable worker who is committed to completing tasks correctly and effectively. My experience working in an office environment, in logistics, as a developer, and in the public sector as a lifeguard, has equipped me with the ability to communicate principles clearly and effectively. These skills will undoubtedly be valuable assets in any work environment, allowing me to collaborate and contribute in a meaningful way. I love to partake in many outdoor activities, but I also love sitting down and coding. Thank you for visiting, and I'd love to [connect](www.linkedin.com/in/peter-baggetta-245867203/)!
   
   ---
