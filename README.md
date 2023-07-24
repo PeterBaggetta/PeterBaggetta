@@ -24,7 +24,7 @@
 
   - :floppy_disk: I have experience as a Full Stack Developer as well with low level programming on hardware.
 
-  - :round_pushpin: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PeterBaggetta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/peter-baggetta-245867203/) or [![Gmail Badge](https://img.shields.io/badge/-petebaggetta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:peter.baggetta@gmail.com)](mailto:peter.baggetta@gmail.com)
+  - :round_pushpin: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PeterBaggetta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/peter-baggetta-245867203/) or [![Gmail Badge](https://img.shields.io/badge/-peter.baggetta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:peter.baggetta@gmail.com)](mailto:peter.baggetta@gmail.com)
   </div>
 
   ---
