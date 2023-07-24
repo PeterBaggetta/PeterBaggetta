@@ -13,16 +13,16 @@
   [![Linkedin Badge](https://img.shields.io/badge/-PeterBaggetta-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-baggetta/)](https://www.linkedin.com/in/peter-baggetta-245867203/)
   [![Gmail Badge](https://img.shields.io/badge/-peter.baggetta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:peter.baggetta@gmail.com)](mailto:peter.baggetta@gmail.com)
 
-  Welcome to my profile. I am currently a student at the University of Guelph studying Computer Engineering, my most recent position was as a Software Development Engineer intern @PublicisSapient. I love to partake in many outdoor activities, but also sitting down and coding. Thank you for visiting and I'd love to [connect](www.linkedin.com/in/peter-baggetta-245867203/)!
-
+  As a Computer Engineer, who graduated in April 2023, I have gained valuable and up-to-date knowledge and problem-solving skills, that I am eager to apply to the workforce. With a strong work ethic and self-motivation, I am a dependable worker who is committed to completing tasks correctly and effectively. My experience working in an office environment, in logistics, as a developer, and in the public sector as a lifeguard, has equipped me with the ability to communicate principles clearly and effectively. These skills will undoubtedly be valuable assets in any work environment, allowing me to collaborate and contribute in a meaningful way. I love to partake in many outdoor activities, but I also love sitting down and coding. Thank you for visiting, and I'd love to [connect](www.linkedin.com/in/peter-baggetta-245867203/)!
+  
   ---
   <div>
 
   :man_technologist: About Me:
 
-  :computer: I am a Computer Engineering Student studying at University of Guelph.
+  :computer: I am a Computer Engineering Graduate from the University of Guelph.
 
-  - :floppy_disk: I have experience as a Full Stack Developer as well with low level programming on hardware.
+  - :floppy_disk: I have experience as a Full Stack Developer as well with low-level programming on hardware.
 
   - :round_pushpin: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PeterBaggetta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/peter-baggetta-245867203/) or [![Gmail Badge](https://img.shields.io/badge/-peter.baggetta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:peter.baggetta@gmail.com)](mailto:peter.baggetta@gmail.com)
   </div>
