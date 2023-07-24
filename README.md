@@ -11,7 +11,7 @@
   </div>
 
   [![Linkedin Badge](https://img.shields.io/badge/-PeterBaggetta-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-baggetta/)](https://www.linkedin.com/in/peter-baggetta-245867203/)
-  [![Gmail Badge](https://img.shields.io/badge/-petebaggetta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:peter.baggetta@gmail.com)](mailto:peter.baggetta@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-peter.baggetta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:peter.baggetta@gmail.com)](mailto:peter.baggetta@gmail.com)
 
   Welcome to my profile. I am currently a student at the University of Guelph studying Computer Engineering, my most recent position was as a Software Development Engineer intern @PublicisSapient. I love to partake in many outdoor activities, but also sitting down and coding. Thank you for visiting and I'd love to [connect](www.linkedin.com/in/peter-baggetta-245867203/)!
 
