@@ -10,25 +10,31 @@
     <img src="https://komarev.com/ghpvc/?username=PeterBaggetta&style=flat-square&color=blue" alt=""/>
   </div>
 
-  As a Computer Engineer, who graduated in April 2023, I have gained valuable and up-to-date knowledge and problem-solving skills, that I am eager to apply to the workforce. With a strong work ethic and self-motivation, I am a dependable worker who is committed to completing tasks correctly and effectively. My experience working in an office environment, in logistics, as a developer, and in the public sector as a lifeguard, has equipped me with the ability to communicate principles clearly and effectively. These skills will undoubtedly be valuable assets in any work environment, allowing me to collaborate and contribute in a meaningful way. I love to partake in many outdoor activities, but I also love sitting down and coding. Thank you for visiting, and I'd love to [connect](https://www.linkedin.com/in/peter-baggetta-245867203/)!
+  I write Python that occasionally works on the first try, build tools that automate the boring stuff, and break things just enough to learn how to fix them.
+
+Currently experimenting with AI-powered sorting, learning C# and discovering features that feel like magic!
+
+I believe in clean code, strong coffee, and the idea that every problem can be solved with just one more print() statement. 
+
+Thank you for visiting, and I'd love to [connect](https://www.linkedin.com/in/peter-baggetta-245867203/)!
   
   ---
   <div>
 
-  :man_technologist: About Me:
+  👨‍💻 About Me:
 
-  :computer: I am a Computer Engineering Graduate from the University of Guelph.
+  💻 I am a Computer Engineering Graduate from the University of Guelph.
 
-  - :floppy_disk: I have experience as a Full Stack Developer as well with low-level programming on hardware.
+  - 💾I have experience as a Full Stack & Python dev as well as knowledge in low-level programming like C and C# (you need to understand how the computer thinks 💭).
 
-  - :round_pushpin: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PeterBaggetta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/peter-baggetta-245867203/) or [![Gmail Badge](https://img.shields.io/badge/-peter.baggetta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:peter.baggetta@gmail.com)](mailto:peter.baggetta@gmail.com)
+  - 📍 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PeterBaggetta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/peter-baggetta-245867203/) or [![Gmail Badge](https://img.shields.io/badge/-peter.baggetta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:peter.baggetta@gmail.com)](mailto:peter.baggetta@gmail.com)
   </div>
 
   ---
 
   <div>
 
-  ### :hammer_and_wrench: Languages and Tools:
+  ### 🛠️ Languages and Tools:
 
   </div>
 
@@ -49,7 +55,7 @@
 
   ---
   
-  ### :fire: My Stats:
+  ### 🔥 My Stats:
   
   <p align=center>
   <div align=center>
