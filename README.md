@@ -14,18 +14,18 @@
 
 Currently experimenting with AI-powered sorting, learning C# and discovering features that feel like magic!
 
-I believe in clean code, strong coffee, and the idea that every problem can be solved with just one more print() statement. 
+I believe in clean code, strong coffee, and the idea that every problem can be solved with just one more print statement. 
 
 Thank you for visiting, and I'd love to [connect](https://www.linkedin.com/in/peter-baggetta-245867203/)!
   
   ---
   <div>
 
-  👨‍💻 About Me:
+  ### 👨‍💻 About Me:
 
   💻 I am a Computer Engineering Graduate from the University of Guelph.
 
-  - 💾I have experience as a Full Stack & Python dev as well as knowledge in low-level programming like C and C# (you need to understand how the computer thinks 💭).
+  - 💾I have experience as a Full Stack, Python & C Sharp dev as well as knowledge in low-level programming like C (you need to understand how the computer thinks 💭).
 
   - 📍 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PeterBaggetta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/peter-baggetta-245867203/) or [![Gmail Badge](https://img.shields.io/badge/-peter.baggetta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:peter.baggetta@gmail.com)](mailto:peter.baggetta@gmail.com)
   </div>
@@ -51,13 +51,20 @@ Thank you for visiting, and I'd love to [connect](https://www.linkedin.com/in/pe
 
   ---
   
-  ### 🔥 My Stats:
+  ### 📊 My Repos:
+  This is not all of my repos and true stats (obviously) I have some private repositories that I am currently working on. Reach out if you're curious!
   
-  <p align=center>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterBaggetta&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
-    </a>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=PeterBaggetta&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=PeterBaggetta&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=PeterBaggetta&show_icons=true" />
+</picture>
     
 <!--     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=PeterBaggetta&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
