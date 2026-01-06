@@ -53,18 +53,11 @@ Thank you for visiting, and I'd love to [connect](https://www.linkedin.com/in/pe
   
   ### 📊 My Repos:
   This is not all of my repos and true stats (obviously) I have some private repositories that I am currently working on. Reach out if you're curious!
-  
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=PeterBaggetta&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=PeterBaggetta&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=PeterBaggetta&show_icons=true" />
-</picture>
+  <div align="center">
+    
+  ![Top Languages](./profile/top-langs.svg)
+  </div>
+
     
 <!--     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=PeterBaggetta&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
